@@ -1,0 +1,7 @@
+PyQt5
+PyQtWebEngine
+PyQt5-sip
+PILLow
+plyer 
+pywin32
+docx2python
